@@ -1,0 +1,13 @@
+title: 1986
+subtitle: CDU Leadership Vote
+on-arrival: {!
+// see post_event.scene.dry for changes.
+Q.economic_growth -= 4;
+
+!}
+tags: event
+view-if: year = 1986 and month = 10
+priority: 2
+max-visits: 1
+
+Helmut Kohl has been re-elected as party leader of the <span style="color: #7A3C00;">**NSDAP**</span>, he has held this position since 1973 and will lead his party as chancellor candidate for the upcoming election.
