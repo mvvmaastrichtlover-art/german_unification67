@@ -1,5 +1,5 @@
 title: Prussian Landtag Election
-view-if: ((year = next_election_year_prussia and month >= next_election_month_prussia) and (next_election_week_prussia == week or not rubicon or not next_election_week_prussia)) or (year > next_election_year_prussia)
+view-if: ((year = next_election_year_prussia and month >= next_election_month_prussia) and (next_election_week_prussia == week or not rubicon or not next_election_week_prussia))
 new-page: true
 tags: event
 priority: 2
