@@ -61,36 +61,29 @@ Q.dissent = 0.05;
 Q.dissent_percent = 5;
 
 // factions
-Q.factions = ['left', 'center', 'labor', 'reformist', 'neorevisionist', 'social_patriot'];
+Q.factions = ['christian_social', 'liberal_conservative', 'economic_liberal', 'national_conservative', 'pro_european'];
 // should this be normalized to 100%?
-Q.left_strength = 15;
-Q.left_dissent = 20;
-Q.center_strength = 30;
-Q.center_dissent = 0;
-Q.labor_strength = 25;
-Q.labor_dissent = 5;
-Q.reformist_strength = 25;
-Q.reformist_dissent = 5;
-Q.neorevisionist_strength = 5;
-Q.neorevisionist_dissent = 10;
-Q.social_patriot_strength = 0
-Q.social_patriot_dissent = 0;
+Q.christian_social_strength = 15;
+Q.christian_social_dissent = 5;
+Q.liberal_conservative_strength = 5;
+Q.liberal_conservative_dissent = 20;
+Q.economic_liberal_strength = 25;
+Q.economic_liberal_dissent = 10;
+Q.national_conservative_strength = 35;
+Q.national_conservative_dissent = 30;
+Q.pro_european_strength = 15;
+Q.pro_european_dissent = 0;
 
 // secret events...
-Q.unions_independent = 0;
-Q.centrists_resign = 0;
-Q.left_split = 0;
-Q.reformists_resigned = 0;
+Q.christian_socials_resign = 0;
+Q.liberal_conservatives_resign = 0;
+Q.economic_liberals_resign = 0;
+Q.national_conservatives_resign = 0;
 
-// have we discovered neorevisionism?
-Q.neorevisionism = 0;
-
-Q.social_patriot = 0;
-
-// crisis_urgency indicates how seriously the SPD is taking the economic crisis - scale from 0 to 10.
-Q.crisis_urgency = 0;
-// nazi_urgency indicates how seriously the SPD takes the nazis - scale from 0 to 10.
-Q.nazi_urgency = 0;
+// You can guess three times what this means.
+Q.brezhnev_doctrine_abandoned = 0;
+// 99 Luftballons bla bla bla (The previous double slash is a reference to the german idiom "Dreimal darfst du raten.." meaning "You can guess three times.." to express how obvious an answer is, if i made this up that would be a very unnecessary lie.)
+Q.berlin_wall_torn_down = 0;
 // radicalization indicates how radical the SPD's rhetoric is - scale from 0 to 10.
 Q.radicalization = 0;
 // Support for the WTB plan and proto-Keynesian works creation plans in general
