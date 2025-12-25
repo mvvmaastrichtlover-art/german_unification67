@@ -120,8 +120,6 @@ Q.ddp_relation = 60;
 Q.dvp_relation = 35;
 // DNVP and NSDAP are invariably hostile
 Q.dnvp_relation = 5;
-Q.nsdap_relation = 0;
-Q.lvp_relation = 0;
 
 Q.kpd_leader = "Thälmann";
 Q.z_leader = "Marx";
@@ -707,14 +705,14 @@ Q.nazi_decay_timer = 0;
 Q.red_general_timer = 0;
 Q.weimar_rally_timer = 0;
 Q.editorial_line = "Center";
-Q.z_party_name = "Z";
+Q.z_party_name = "CDU";
 Q.dnvp_leader = "Westarp";
 Q.dnvp_ideology = "Radical";
 Q.dstp_formed = 0;
 Q.ddp_left = 0;
 Q.ddp_right = 0;
-Q.ddp_name = "DDP";
-Q.ddp_full_name = "German Democratic Party";
+Q.ddp_name = "FDP";
+Q.ddp_full_name = "Free Democrats Party";
 Q.ddp_leader = "Koch-Weser";
 Q.ddp_ideology = "Moderate"
 Q.ddp_cohesion = 15;
