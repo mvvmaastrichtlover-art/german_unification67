@@ -421,6 +421,7 @@ Q.economic_records = [];
 // starting chancellor: Helmut Kohl
 Q.chancellor = "Kohl";
 Q.prussia_leader = "Rau";
+Q.president = "Weizsaecker";
 Q.chancellor_party = 'Z';
 Q.spd_in_government = 0;
 Q.spd_in_government_time = 0;
