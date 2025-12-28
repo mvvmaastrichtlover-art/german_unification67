@@ -417,7 +417,7 @@ Q.party_support_records = [];
 Q.economic_records = [];
 
 
-// State of the government
+// State of the government (test)
 // starting chancellor: Helmut Kohl
 Q.chancellor = "Kohl";
 Q.prussia_leader = "Rau";
