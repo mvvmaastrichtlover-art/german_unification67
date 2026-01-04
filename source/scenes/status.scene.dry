@@ -327,15 +327,15 @@ If the election were to be held now
 
 <span style="color: #000000;">**[+ z_party_name +]**</span> + <span style="color: #000055;">**CSU**</span>: [+ z_votes +]%
 
-<span style="color: #c00000;">**SPD**</span>: [+ spd_votes +]%
+<span style="color: #e40613;">**SPD**</span>: [+ spd_votes +]%
 
 [? if sapd_formed: <span style="color: #9B0000;">**WASG**</span>: [+ sapd_votes +]% ?]
 
-<span style="color: #00fd00;">**Grüne**</span>: [+ gruene_votes +]%
+<span style="color: #1ea12d;">**Grüne**</span>: [+ gruene_votes +]%
 
-<span style="color: #f0f000;">**FDP**</span>: [+ fdp_votes +]%
+<span style="color: #fde000;">**FDP**</span>: [+ fdp_votes +]%
 
-<span style="color: #505000;">**NPD**</span>: [+ npd_votes +]%
+<span style="color: #91011c;">**NPD**</span>: [+ npd_votes +]%
 
 **Others**: [+ other_votes +]%
 
