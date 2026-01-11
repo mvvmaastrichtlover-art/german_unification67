@@ -1135,10 +1135,10 @@ Q.resources = 3;
 Q.dues = 3;
 Q.base_dues = 3;
 Q.rb_strength = 2000;
-Q.z_relation = 41;
-Q.kpd_relation = 21;
-Q.dvp_relation = 31;
-Q.ddp_relation = 55;
+Q.z_relation = 45;
+Q.gruene_relation = 25;
+Q.fdp_relation = 85;
+Q.npd_relation = 5;
 Q.budget = 2;
 !}
 go-to: 1928_main
