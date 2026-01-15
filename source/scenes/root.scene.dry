@@ -297,7 +297,7 @@ Q.catholics_spd_old = 20;
 // note: CSU is together with CDU
 Q.spd_r = 38.8;
 Q.gruene_r = 5.4;
-Q.cdu_r = 49;
+Q.z_r = 49;
 Q.fdp_r = 6.7;
 Q.dnvp_r = 0;
 Q.nsdap_r = 0;
